@@ -15,5 +15,5 @@ Test documentation
 .. toctree::
    :maxdepth: 4
 
-   Введение
+   Intro
 

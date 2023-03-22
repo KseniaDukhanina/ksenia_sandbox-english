@@ -18,9 +18,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Citeck ECOS'
-copyright = '2023, Citeck'
-author = 'Citeck'
+project = 'Ksenia'
+copyright = '2023, Ksenia'
+author = 'Ksenia'
 
 # The full version, including alpha/beta/rc tags
 release = 'Ver. 4'
@@ -44,7 +44,7 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'ru'
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -71,7 +71,7 @@ html_theme = 'sphinx_rtd_theme'
 # html_theme_path = ['.']
 
  # Set link name generated in the top bar.
-html_title = 'ECOS'
+html_title = 'Test'
 
 navigation_depth = -1
 
